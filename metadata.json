@@ -1,0 +1,7 @@
+{
+  "name": "Lumen Boiler AI",
+  "description": "AI-powered predictive maintenance and efficiency automation system for industrial boilers. Features real-time IoT data ingestion, combustion optimization, and IBR compliance checks for the Indian industrial sector.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
