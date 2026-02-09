@@ -2,6 +2,7 @@
 
 # CLUSTERICS - Intelligence that prevents disasters before they happen
 <img width="1893" height="966" alt="image" src="https://github.com/user-attachments/assets/66de1b7f-fbf8-491d-b996-ac18f7c4f03f" />
+<img width="1879" height="967" alt="image" src="https://github.com/user-attachments/assets/4381c653-e37e-4d00-be75-9d0505cbab66" />
 
 
 ### **Neural-Powered Predictive Maintenance for Industrial Boilers**
