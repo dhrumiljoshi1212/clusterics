@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 The Problem We Solve
+## 🎯 The Problem I Solved
 
 > **₹50,000+ crore** is lost annually in Indian industries due to unplanned boiler downtime and inefficiencies.
 
