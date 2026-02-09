@@ -299,40 +299,6 @@ Operators can simulate efficiency improvements BEFORE acting:
 
 **Sales Pitch**: *"Your SCADA tells you when things break. Clusterics shows operators that cleaning tubes TODAY saves ₹1.5 Lakhs NEXT MONTH. That's not data — that's profit assurance."*
 
----
-
-## 🏆 Why This Project Stands Out
-
-### 1. **Real Problem, Real Impact**
-- Targets ₹50,000+ crore annual industrial losses
-- Based on actual boiler operation challenges
-- Quantifiable ROI (5-15% fuel savings)
-
-### 2. **Technical Excellence**
-- 5 research-backed ML algorithms
-- Real-time multivariate analysis
-- Sub-50ms computation time
-- Type-safe TypeScript implementation
-
-### 3. **User-Centric Design**
-- 60× faster issue identification
-- 8× faster operator training
-- Action-oriented (not data-oriented)
-- Financial impact always visible
-
-### 4. **Production Ready**
-- Zero TypeScript errors
-- Responsive across devices
-- No breaking changes
-- Modular, maintainable code
-
-### 5. **Business Value**
-- Speaks management language (₹)
-- Enables condition-based maintenance
-- Reduces unplanned downtime by 40-60%
-- Clear competitive advantage
-
----
 
 ## Future Roadmap
 
