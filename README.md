@@ -314,12 +314,6 @@ Operators can simulate efficiency improvements BEFORE acting:
 
 <div align="center">
 
-### 🚀 From Data to Decisions in 30 Seconds
-
-**Clusterics** — *Intelligence that prevents disasters before they happen*
-
----
-
 *"The best maintenance is the maintenance you never have to do."*
 
 </div>
