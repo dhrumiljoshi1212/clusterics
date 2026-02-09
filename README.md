@@ -8,13 +8,6 @@
 
 *Transforming reactive maintenance into proactive intelligence — saving ₹20-50 crore annually*
 
-[![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Gemini AI](https://img.shields.io/badge/Gemini_AI-Powered-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
-[![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-
-[**🚀 Live Demo**](https://ai.studio/apps/drive/1nR_5LMrl2kpcXz_qQcrd-vifLb5cNxNK) • [**📖 Documentation**](#-architecture) • [**⚡ Quick Start**](#-quick-start)
-
 </div>
 
 ---
