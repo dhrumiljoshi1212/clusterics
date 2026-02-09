@@ -91,19 +91,6 @@ npm run dev
 └───────────────────────────────────┘     └──────────────────────────────────────────┘
 ```
 
-### Dashboard Features at a Glance
-
-| Section | What It Shows | User Benefit |
-|---------|---------------|--------------|
-| 🔴 **Alert Bar** | Critical alerts count with pulsing animation | Can't miss emergencies |
-| 🎯 **Recommended Actions** | Auto-prioritized action items | Know exactly what to do |
-| 📊 **Health Gauge** | Animated 0-100 circular indicator | Instant health understanding |
-| 📈 **Trend Arrows** | ↑↓↔ for pressure, temp, efficiency | See changes at a glance |
-| 💰 **Financial Impact** | ₹/minute burning, recovery potential | Money talks to management |
-| ⏰ **Failure Timeline** | Countdown to component failures | Schedule maintenance smartly |
-| 🔥 **Anomaly Heatmap** | 5×4 color-coded grid | Visual pattern recognition |
-| 🎮 **What-If Simulator** | Efficiency improvement sliders | Calculate ROI before acting |
-
 ---
 
 ## 🧠 The Intelligence: 5 ML Algorithms
@@ -337,31 +324,6 @@ Operators can simulate efficiency improvements BEFORE acting:
 
 ---
 
-## 🎨 UI/UX Highlights
-
-### Premium Visual Design
-
-- **Dark Theme**: Professional slate-900 background, easy on eyes for 24/7 monitoring
-- **Glassmorphism**: Cards with backdrop blur and subtle transparency
-- **Animations**: Smooth slide-in, pulse effects, floating icons
-- **Color Coding**: Intuitive red/orange/yellow/green severity system
-
-### Micro-Interactions
-
-- **Card Hover**: Lift effect with enhanced shadow
-- **Click to Expand**: Action items reveal detailed steps
-- **Real-time Updates**: Smooth number transitions
-- **Progress Bars**: Animated fill with glow effects
-
-### Accessibility
-
-- High contrast ratios for readability
-- Clear visual hierarchy
-- Mobile-responsive design
-- Keyboard navigation support
-
----
-
 ## 🏆 Why This Project Stands Out
 
 ### 1. **Real Problem, Real Impact**
@@ -395,7 +357,7 @@ Operators can simulate efficiency improvements BEFORE acting:
 
 ---
 
-## 🔮 Future Roadmap
+## Future Roadmap
 
 | Phase | Feature | Impact |
 |-------|---------|--------|
@@ -407,23 +369,14 @@ Operators can simulate efficiency improvements BEFORE acting:
 
 ---
 
-## 👥 Team
-
-Built with 🔥 for the hackathon by passionate engineers solving real industrial challenges.
-
----
-
 <div align="center">
 
 ### 🚀 From Data to Decisions in 30 Seconds
 
 **Clusterics** — *Intelligence that prevents disasters before they happen*
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com)
-[![Powered by AI](https://img.shields.io/badge/Powered%20by-AI-blue?style=for-the-badge)](https://ai.google.dev/)
-
 ---
 
-*"The best maintenance is the maintenance you never have to do because you prevented the failure."*
+*"The best maintenance is the maintenance you never have to do."*
 
 </div>
