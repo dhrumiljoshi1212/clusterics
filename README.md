@@ -272,28 +272,6 @@ Trend Indicators: Stable | Rising | Falling | Volatile
 | **Build** | Vite | Lightning-fast development |
 | **Icons** | Lucide React | Clean, modern iconography |
 
-### Project Structure
-
-```
-clusterics/
-├── components/
-│   ├── AdvancedAnalytics.tsx   # 🧠 ML-powered analytics dashboard
-│   ├── Dashboard.tsx           # 📊 Main control center
-│   ├── Simulator.tsx           # 🎮 What-if cost simulator
-│   ├── AlarmSystem.tsx         # 🚨 Alert management
-│   ├── BoilerSchematic.tsx     # 🔧 Visual boiler diagram
-│   ├── OEEDashboard.tsx        # 📈 Overall Equipment Effectiveness
-│   ├── CarbonCalculator.tsx    # 🌱 Carbon footprint tracking
-│   ├── ChatInterface.tsx       # 💬 AI chat assistant
-│   └── Auditor.tsx             # 📋 Compliance auditing
-├── services/
-│   ├── advancedAnalytics.ts    # 🔬 5 ML algorithms implementation
-│   └── geminiService.ts        # 🤖 Gemini AI integration
-├── App.tsx                     # 🏠 Application root
-├── types.ts                    # 📝 TypeScript interfaces
-└── constants.ts                # ⚙️ Configuration values
-```
-
 ---
 
 ## 🎮 Bonus Feature: What-If Simulator
