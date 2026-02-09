@@ -5,7 +5,7 @@
 <img width="1879" height="967" alt="image" src="https://github.com/user-attachments/assets/4381c653-e37e-4d00-be75-9d0505cbab66" />
 <img width="1891" height="978" alt="image" src="https://github.com/user-attachments/assets/228f0f8e-dba3-427e-9080-2184ced82c9b" />
 <img width="1898" height="974" alt="image" src="https://github.com/user-attachments/assets/47296138-6d15-4f19-9ece-20176cb314f0" />
-
+<img width="507" height="458" alt="image" src="https://github.com/user-attachments/assets/42913ad2-9ff7-41a2-b479-98ca7e179430" />
 <img width="695" height="631" alt="image" src="https://github.com/user-attachments/assets/e120fe2b-9446-4f33-905b-7d72f10c8082" />
 
 ### **Neural-Powered Predictive Maintenance for Industrial Boilers**
