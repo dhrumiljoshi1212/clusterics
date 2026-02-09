@@ -33,13 +33,13 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
-│   🏭 IoT Sensors  ──►  🧠 5 ML Algorithms + Gemini3 ──►  📊 Action Dashboard        │
+│   IoT Sensors  ──► 5 ML Algorithms + Gemini3 ──►  📊 Action Dashboard       │
 │                                                                             │
-│   • Pressure        • Isolation Forest         • "Fix valve in 18 days"    │
-│   • Temperature     • Gradient Boosting        • "Save ₹5.2L/month"        │
-│   • O₂ Levels       • Z-Score Anomaly          • "Component X at 42% risk" │
-│   • Efficiency      • Energy Loss Calc         • "Health Score: 78/100"    │
-│   • Steam Flow      • Health Scoring           • Real-time anomaly alerts  │
+│   • Pressure        • Isolation Forest         • "Fix valve in 18 days"     │
+│   • Temperature     • Gradient Boosting        • "Save ₹5.2L/month"         │
+│   • O₂ Levels       • Z-Score Anomaly          • "Component X at 42% risk"  │
+│   • Efficiency      • Energy Loss Calc         • "Health Score: 78/100"     │
+│   • Steam Flow      • Health Scoring           • Real-time anomaly alerts   │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
