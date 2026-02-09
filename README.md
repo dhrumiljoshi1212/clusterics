@@ -1,6 +1,6 @@
 <div align="center">
 
-# CLUSTERICS
+# CLUSTERICS - Intelligence that prevents disasters before they happen
 <img width="1893" height="966" alt="image" src="https://github.com/user-attachments/assets/66de1b7f-fbf8-491d-b996-ac18f7c4f03f" />
 
 
