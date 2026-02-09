@@ -26,7 +26,7 @@
 
 ---
 
-## 💡 Our Solution: AI That Predicts the Future
+## 💡 My Solution: AI That Predicts the Future
 
 <div align="center">
 
