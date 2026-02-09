@@ -55,7 +55,6 @@
 | Anomaly Detection | Single-parameter | **5D multivariate AI** |
 | User Interface | Data tables | **Action-centric dashboard** |
 | Decision Support | Manual analysis | **Auto-prioritized actions** |
-| Training Time | 2+ hours | **15 minutes** |
 
 ---
 
